@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/01_04/pom.xml" />
+        <option value="$PROJECT_DIR$/01_04/target/test-classes/pom.xml" />
+        <option value="$PROJECT_DIR$/02_02/start/pom.xml" />
+        <option value="$PROJECT_DIR$/02_03/start/pom.xml" />
+        <option value="$PROJECT_DIR$/02_04/start/pom.xml" />
+        <option value="$PROJECT_DIR$/02_05/start/pom.xml" />
+        <option value="$PROJECT_DIR$/02_06/start/pom.xml" />
+        <option value="$PROJECT_DIR$/02_07/start/pom.xml" />
+        <option value="$PROJECT_DIR$/02_08/start/pom.xml" />
+        <option value="$PROJECT_DIR$/04_02/start/pom.xml" />
+        <option value="$PROJECT_DIR$/04_03/start/pom.xml" />
+        <option value="$PROJECT_DIR$/04_04/start/pom.xml" />
+        <option value="$PROJECT_DIR$/04_05/start/pom.xml" />
+        <option value="$PROJECT_DIR$/05_02/end/pom.xml" />
+        <option value="$PROJECT_DIR$/05_03/start/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Zulu-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
